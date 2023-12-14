@@ -1,0 +1,29 @@
+. {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;   
+}
+
+body {
+    background-color: black;
+    
+}
+
+.app {
+    font-size: 25px;
+
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.title {
+    text-align: center;
+    font-size: 45px;
+}
+
+.button-container {
+    text-align: center;
+}
